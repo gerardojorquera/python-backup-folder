@@ -1,0 +1,5 @@
+charset-normalizer==3.4.9
+pillow==12.3.0
+pyminizip==0.2.6
+reportlab==5.0.0
+setuptools==82.0.1
